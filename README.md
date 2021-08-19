@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kpgusmc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @kpgusmc actual name is Kevin
+- 👀 I’m interested in learning about code
+- 🌱 I’m currently learning regretfully nothing
+- 💞️ I’m looking to collaborate on totally unsure
+- 📫 How to reach me machvmotors@gmail.com
 
 <!---
 kpgusmc/kpgusmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
